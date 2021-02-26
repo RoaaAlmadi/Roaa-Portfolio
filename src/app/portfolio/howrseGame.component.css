@@ -1,0 +1,13 @@
+/*Individual portfolio item styles*/
+
+.porfolio-item-indivdual {
+    padding: 0 2em 2em;
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+.porfolio-item-indivdual p {
+    max-width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+}
